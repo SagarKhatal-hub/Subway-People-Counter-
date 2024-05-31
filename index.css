@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+	background-image: url("subway.png");
+	background-size: cover;
+}
+.btn{
+	width:150px;
+	background-color: darkblue;
+	color: white;
+	font-weight: bold;
+	border: none;
+	padding: 5px 0;
+	border-radius: 7px;
+}
+
+
+#save-el{
+	
+	font-weight: bold;
+}
+.container{
+	background-color: white;
+	max-width: 30%;
+	margin: auto;
+	border: 3px solid black;
+	border-radius: 10px;
+}
